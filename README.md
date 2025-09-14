@@ -1,7 +1,6 @@
 
-# Snatchernauts FX Plugin
-## Developed by Grahf (Dean Thomson)
-## September 2025
+# Snatchernauts FX Plugin 1.0
+### Developed by Grahf (Dean Thomson) - September 2025
 
 High‑quality **post‑processing & 2D lighting** pipeline for Ren’Py **8.4+ (GL2)** on desktop.  
 Designed for cinematic visual novels and interactive fiction that want **letterbox**, **CRT**, **film grain**, **bloom**, **color grading**, and a **real‑time 2D lighting system** — all with an **in‑engine editor**, **preset JSONs**, and a **clean API**.
