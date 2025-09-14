@@ -1,4 +1,4 @@
-# Snatchernauts FX Plugin — Manual (v6)
+# Snatchernauts FX Plugin — Manual (v1.0)
 
 ## Table of Contents
 1. [Installation](INSTALLATION.md)
