@@ -1,0 +1,63 @@
+{
+  "name": "Lights_Police",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "ambient": [
+    0.08,
+    0.08,
+    0.1,
+    0.4
+  ],
+  "lights": [
+    {
+      "type": "rect",
+      "pos": [
+        0.2,
+        0.2
+      ],
+      "size": [
+        0.15,
+        0.08
+      ],
+      "color": [
+        1.0,
+        0.1,
+        0.2
+      ],
+      "intensity": 1.1,
+      "falloff": 1.1,
+      "front": true,
+      "anim": {
+        "type": "pulse",
+        "speed": 1.2,
+        "amount": 0.35
+      }
+    },
+    {
+      "type": "rect",
+      "pos": [
+        0.8,
+        0.2
+      ],
+      "size": [
+        0.15,
+        0.08
+      ],
+      "color": [
+        0.1,
+        0.3,
+        1.0
+      ],
+      "intensity": 1.1,
+      "falloff": 1.1,
+      "front": true,
+      "anim": {
+        "type": "pulse",
+        "speed": 1.2,
+        "amount": 0.35
+      }
+    }
+  ]
+}

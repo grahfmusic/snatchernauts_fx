@@ -1,0 +1,19 @@
+{
+  "name": "Bloom_Ghost",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "threshold": 0.63,
+  "soft_knee": 0.55,
+  "intensity": 1.05,
+  "radius": 2.1,
+  "samples": 15,
+  "anamorphic": 0.15,
+  "anim": {
+    "type": "breathe",
+    "speed": 0.8,
+    "amount": 0.1
+  }
+}

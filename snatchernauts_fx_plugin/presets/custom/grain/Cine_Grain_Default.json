@@ -1,0 +1,12 @@
+{
+  "name": "Cine_Grain_Default",
+  "resolution": [
+    0,
+    0
+  ],
+  "enable": true,
+  "intensity": 0.06,
+  "size": 1.1,
+  "speed": 1.0,
+  "downsample": 1.0
+}

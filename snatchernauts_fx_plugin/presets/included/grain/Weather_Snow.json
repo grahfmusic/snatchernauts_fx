@@ -1,0 +1,12 @@
+{
+  "name": "Weather_Snow",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.13,
+  "size": 1.7,
+  "speed": 1.8,
+  "downsample": 1.2
+}

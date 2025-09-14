@@ -1,0 +1,17 @@
+{
+  "name": "CRT_PVM_Clean",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.14,
+  "vignette": 0.1,
+  "aberration": 0.001,
+  "scanline_strength": 0.18,
+  "scanline_density": 1.5,
+  "glitch": 0.0,
+  "anim_type": "none",
+  "anim_speed": 0.0,
+  "barrel": 0.002
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Game_GBA",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.1,
+  "size": 2.2,
+  "speed": 0.7,
+  "downsample": 2.2
+}

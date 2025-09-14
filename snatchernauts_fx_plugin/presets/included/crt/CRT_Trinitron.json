@@ -1,0 +1,17 @@
+{
+  "name": "CRT_Trinitron",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.22,
+  "vignette": 0.18,
+  "aberration": 0.0018,
+  "scanline_strength": 0.3,
+  "scanline_density": 1.6,
+  "glitch": 0.02,
+  "anim_type": "sine",
+  "anim_speed": 1.0,
+  "barrel": 0.003
+}

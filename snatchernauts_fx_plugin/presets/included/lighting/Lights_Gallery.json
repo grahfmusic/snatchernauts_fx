@@ -1,0 +1,93 @@
+{
+  "name": "Lights_Gallery",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "ambient": [
+    0.16,
+    0.16,
+    0.16,
+    0.25
+  ],
+  "lights": [
+    {
+      "type": "spot",
+      "pos": [
+        0.2,
+        0.1
+      ],
+      "dir": [
+        0,
+        1
+      ],
+      "angle": 18,
+      "color": [
+        1.0,
+        0.95,
+        0.9
+      ],
+      "intensity": 1.0,
+      "radius": 0.8,
+      "falloff": 1.1,
+      "front": true,
+      "anim": {
+        "type": "none",
+        "speed": 1.0,
+        "amount": 0.0
+      }
+    },
+    {
+      "type": "spot",
+      "pos": [
+        0.5,
+        0.1
+      ],
+      "dir": [
+        0,
+        1
+      ],
+      "angle": 18,
+      "color": [
+        1.0,
+        0.95,
+        0.9
+      ],
+      "intensity": 1.0,
+      "radius": 0.8,
+      "falloff": 1.1,
+      "front": true,
+      "anim": {
+        "type": "none",
+        "speed": 1.0,
+        "amount": 0.0
+      }
+    },
+    {
+      "type": "spot",
+      "pos": [
+        0.8,
+        0.1
+      ],
+      "dir": [
+        0,
+        1
+      ],
+      "angle": 18,
+      "color": [
+        1.0,
+        0.95,
+        0.9
+      ],
+      "intensity": 1.0,
+      "radius": 0.8,
+      "falloff": 1.1,
+      "front": true,
+      "anim": {
+        "type": "none",
+        "speed": 1.0,
+        "amount": 0.0
+      }
+    }
+  ]
+}

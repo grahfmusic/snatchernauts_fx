@@ -1,0 +1,19 @@
+{
+  "name": "Bloom_Med",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "threshold": 0.7,
+  "soft_knee": 0.5,
+  "intensity": 0.8,
+  "radius": 2.0,
+  "samples": 15,
+  "anamorphic": 0.1,
+  "anim": {
+    "type": "none",
+    "speed": 0.0,
+    "amount": 0.0
+  }
+}

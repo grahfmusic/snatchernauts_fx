@@ -1,0 +1,17 @@
+{
+  "name": "Cine_CRT_Default",
+  "resolution": [
+    0,
+    0
+  ],
+  "enable": true,
+  "intensity": 0.18,
+  "vignette": 0.18,
+  "aberration": 0.0015,
+  "scanline_strength": 0.22,
+  "scanline_density": 1.6,
+  "glitch": 0.0,
+  "anim_type": "sine",
+  "anim_speed": 0.9,
+  "barrel": 0.002
+}

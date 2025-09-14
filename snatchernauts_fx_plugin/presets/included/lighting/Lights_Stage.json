@@ -1,0 +1,88 @@
+{
+  "name": "Lights_Stage",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "ambient": [
+    0.08,
+    0.08,
+    0.1,
+    0.35
+  ],
+  "lights": [
+    {
+      "type": "spot",
+      "pos": [
+        0.25,
+        0.1
+      ],
+      "dir": [
+        0,
+        1
+      ],
+      "angle": 22,
+      "color": [
+        1.0,
+        0.6,
+        0.6
+      ],
+      "intensity": 1.2,
+      "radius": 0.8,
+      "falloff": 1.2,
+      "front": true,
+      "anim": {
+        "type": "none",
+        "speed": 1.0,
+        "amount": 0.0
+      }
+    },
+    {
+      "type": "spot",
+      "pos": [
+        0.75,
+        0.1
+      ],
+      "dir": [
+        0,
+        1
+      ],
+      "angle": 22,
+      "color": [
+        0.6,
+        0.6,
+        1.0
+      ],
+      "intensity": 1.2,
+      "radius": 0.8,
+      "falloff": 1.2,
+      "front": true,
+      "anim": {
+        "type": "none",
+        "speed": 1.0,
+        "amount": 0.0
+      }
+    },
+    {
+      "type": "point",
+      "pos": [
+        0.5,
+        0.35
+      ],
+      "color": [
+        1.0,
+        0.95,
+        0.8
+      ],
+      "intensity": 0.8,
+      "radius": 0.25,
+      "falloff": 1.0,
+      "front": false,
+      "anim": {
+        "type": "none",
+        "speed": 1.0,
+        "amount": 0.0
+      }
+    }
+  ]
+}

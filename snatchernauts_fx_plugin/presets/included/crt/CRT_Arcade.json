@@ -1,0 +1,17 @@
+{
+  "name": "CRT_Arcade",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.28,
+  "vignette": 0.2,
+  "aberration": 0.0025,
+  "scanline_strength": 0.35,
+  "scanline_density": 1.8,
+  "glitch": 0.08,
+  "anim_type": "tri",
+  "anim_speed": 1.1,
+  "barrel": 0.004
+}

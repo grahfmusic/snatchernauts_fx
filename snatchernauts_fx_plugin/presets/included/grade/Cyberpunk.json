@@ -1,0 +1,24 @@
+{
+  "name": "Cyberpunk",
+  "enable": true,
+  "ops": [
+    {
+      "op": "tint",
+      "r": 0.95,
+      "g": 1.02,
+      "b": 1.08
+    },
+    {
+      "op": "saturation",
+      "value": 1.15
+    },
+    {
+      "op": "contrast",
+      "value": 1.1
+    },
+    {
+      "op": "hue",
+      "value": 0.01
+    }
+  ]
+}

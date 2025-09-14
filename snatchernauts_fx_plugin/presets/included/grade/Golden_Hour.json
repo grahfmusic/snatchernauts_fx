@@ -1,0 +1,20 @@
+{
+  "name": "Golden_Hour",
+  "enable": true,
+  "ops": [
+    {
+      "op": "tint",
+      "r": 1.08,
+      "g": 1.03,
+      "b": 0.95
+    },
+    {
+      "op": "brightness",
+      "value": 0.02
+    },
+    {
+      "op": "contrast",
+      "value": 1.05
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Neon_Letterbox_Default",
+  "resolution": [
+    0,
+    0
+  ],
+  "enable": true,
+  "aspect": "21:9",
+  "speed": "normal",
+  "speed_custom": 6.0,
+  "mix": 1.0
+}

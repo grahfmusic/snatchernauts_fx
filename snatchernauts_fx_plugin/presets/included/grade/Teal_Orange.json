@@ -1,0 +1,24 @@
+{
+  "name": "Teal_Orange",
+  "enable": true,
+  "ops": [
+    {
+      "op": "hue",
+      "value": 0.02
+    },
+    {
+      "op": "saturation",
+      "value": 1.12
+    },
+    {
+      "op": "contrast",
+      "value": 1.08
+    },
+    {
+      "op": "tint",
+      "r": 1.03,
+      "g": 1.02,
+      "b": 0.98
+    }
+  ]
+}

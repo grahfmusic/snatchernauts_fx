@@ -1,0 +1,19 @@
+{
+  "name": "Bloom_HDR",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "threshold": 0.5,
+  "soft_knee": 0.6,
+  "intensity": 1.5,
+  "radius": 2.8,
+  "samples": 19,
+  "anamorphic": 0.3,
+  "anim": {
+    "type": "pulse",
+    "speed": 1.1,
+    "amount": 0.2
+  }
+}

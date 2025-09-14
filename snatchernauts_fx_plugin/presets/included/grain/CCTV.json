@@ -1,0 +1,12 @@
+{
+  "name": "CCTV",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.12,
+  "size": 1.5,
+  "speed": 1.7,
+  "downsample": 1.0
+}

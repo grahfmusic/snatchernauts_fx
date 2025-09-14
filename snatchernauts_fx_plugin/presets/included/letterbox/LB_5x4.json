@@ -1,0 +1,12 @@
+{
+  "name": "LB_5:4",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "aspect": "5:4",
+  "speed": "very slow",
+  "speed_custom": 1.5,
+  "mix": 1.0
+}

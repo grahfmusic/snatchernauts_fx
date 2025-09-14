@@ -1,0 +1,20 @@
+{
+  "name": "Cool_Moonlight",
+  "enable": true,
+  "ops": [
+    {
+      "op": "tint",
+      "r": 0.95,
+      "g": 1.02,
+      "b": 1.08
+    },
+    {
+      "op": "brightness",
+      "value": -0.03
+    },
+    {
+      "op": "contrast",
+      "value": 1.03
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "TV_Bloom_Default",
+  "resolution": [
+    0,
+    0
+  ],
+  "enable": true,
+  "threshold": 0.7,
+  "soft_knee": 0.5,
+  "intensity": 0.65,
+  "radius": 1.6,
+  "samples": 13,
+  "anamorphic": 0.0,
+  "anim": {
+    "type": "none",
+    "speed": 0.0,
+    "amount": 0.0
+  }
+}

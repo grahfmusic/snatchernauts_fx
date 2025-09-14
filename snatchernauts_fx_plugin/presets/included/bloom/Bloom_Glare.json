@@ -1,0 +1,19 @@
+{
+  "name": "Bloom_Glare",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "threshold": 0.78,
+  "soft_knee": 0.35,
+  "intensity": 1.1,
+  "radius": 2.3,
+  "samples": 15,
+  "anamorphic": 0.25,
+  "anim": {
+    "type": "pulse",
+    "speed": 0.9,
+    "amount": 0.12
+  }
+}

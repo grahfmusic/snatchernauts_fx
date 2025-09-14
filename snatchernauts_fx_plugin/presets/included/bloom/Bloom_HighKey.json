@@ -1,0 +1,19 @@
+{
+  "name": "Bloom_HighKey",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "threshold": 0.7,
+  "soft_knee": 0.4,
+  "intensity": 0.8,
+  "radius": 1.8,
+  "samples": 13,
+  "anamorphic": 0.0,
+  "anim": {
+    "type": "none",
+    "speed": 0.0,
+    "amount": 0.0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "CRT_Helper",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.05,
+  "size": 1.2,
+  "speed": 1.1,
+  "downsample": 1.3
+}

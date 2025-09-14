@@ -1,0 +1,17 @@
+{
+  "name": "CRT_AmberRoom",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.26,
+  "vignette": 0.22,
+  "aberration": 0.002,
+  "scanline_strength": 0.3,
+  "scanline_density": 1.7,
+  "glitch": 0.04,
+  "anim_type": "sine",
+  "anim_speed": 0.9,
+  "barrel": 0.003
+}

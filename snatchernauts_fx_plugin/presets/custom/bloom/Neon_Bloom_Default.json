@@ -1,0 +1,19 @@
+{
+  "name": "Neon_Bloom_Default",
+  "resolution": [
+    0,
+    0
+  ],
+  "enable": true,
+  "threshold": 0.58,
+  "soft_knee": 0.42,
+  "intensity": 1.25,
+  "radius": 2.4,
+  "samples": 17,
+  "anamorphic": 0.3,
+  "anim": {
+    "type": "pulse",
+    "speed": 1.2,
+    "amount": 0.2
+  }
+}

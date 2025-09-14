@@ -1,0 +1,14 @@
+{
+  "name": "TV_Grade_Default",
+  "enable": true,
+  "ops": [
+    {
+      "op": "saturation",
+      "value": 1.05
+    },
+    {
+      "op": "contrast",
+      "value": 1.03
+    }
+  ]
+}

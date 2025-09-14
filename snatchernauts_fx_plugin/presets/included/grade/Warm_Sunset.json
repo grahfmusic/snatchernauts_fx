@@ -1,0 +1,16 @@
+{
+  "name": "Warm_Sunset",
+  "enable": true,
+  "ops": [
+    {
+      "op": "tint",
+      "r": 1.07,
+      "g": 1.02,
+      "b": 0.95
+    },
+    {
+      "op": "contrast",
+      "value": 1.05
+    }
+  ]
+}

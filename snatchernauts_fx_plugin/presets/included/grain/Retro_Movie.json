@@ -1,0 +1,12 @@
+{
+  "name": "Retro_Movie",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.11,
+  "size": 1.4,
+  "speed": 1.0,
+  "downsample": 1.0
+}

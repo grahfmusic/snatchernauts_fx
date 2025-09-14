@@ -1,0 +1,12 @@
+{
+  "name": "LB_4:3",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "aspect": "4:3",
+  "speed": "normal",
+  "speed_custom": 6.0,
+  "mix": 1.0
+}

@@ -1,0 +1,17 @@
+{
+  "name": "CRT_GreenPhosphor",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.26,
+  "vignette": 0.2,
+  "aberration": 0.0024,
+  "scanline_strength": 0.28,
+  "scanline_density": 1.5,
+  "glitch": 0.0,
+  "anim_type": "sine",
+  "anim_speed": 0.8,
+  "barrel": 0.003
+}

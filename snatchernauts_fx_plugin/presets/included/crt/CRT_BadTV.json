@@ -1,0 +1,17 @@
+{
+  "name": "CRT_BadTV",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.34,
+  "vignette": 0.25,
+  "aberration": 0.0032,
+  "scanline_strength": 0.45,
+  "scanline_density": 1.9,
+  "glitch": 0.35,
+  "anim_type": "rolling",
+  "anim_speed": 1.4,
+  "barrel": 0.007
+}

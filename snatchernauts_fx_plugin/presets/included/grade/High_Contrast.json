@@ -1,0 +1,10 @@
+{
+  "name": "High_Contrast",
+  "enable": true,
+  "ops": [
+    {
+      "op": "contrast",
+      "value": 1.3
+    }
+  ]
+}

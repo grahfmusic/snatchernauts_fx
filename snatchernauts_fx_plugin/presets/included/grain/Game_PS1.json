@@ -1,0 +1,12 @@
+{
+  "name": "Game_PS1",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.08,
+  "size": 1.8,
+  "speed": 0.8,
+  "downsample": 2.0
+}

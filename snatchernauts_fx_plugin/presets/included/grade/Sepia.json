@@ -1,0 +1,9 @@
+{
+  "name": "Sepia",
+  "enable": true,
+  "ops": [
+    {
+      "op": "sepia"
+    }
+  ]
+}

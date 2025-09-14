@@ -1,0 +1,19 @@
+{
+  "name": "Bloom_Haze",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "threshold": 0.66,
+  "soft_knee": 0.6,
+  "intensity": 0.7,
+  "radius": 1.6,
+  "samples": 13,
+  "anamorphic": 0.0,
+  "anim": {
+    "type": "breathe",
+    "speed": 0.6,
+    "amount": 0.08
+  }
+}

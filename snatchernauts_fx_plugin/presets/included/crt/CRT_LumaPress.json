@@ -1,0 +1,17 @@
+{
+  "name": "CRT_LumaPress",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.29,
+  "vignette": 0.17,
+  "aberration": 0.0026,
+  "scanline_strength": 0.37,
+  "scanline_density": 1.7,
+  "glitch": 0.12,
+  "anim_type": "tri",
+  "anim_speed": 1.2,
+  "barrel": 0.004
+}

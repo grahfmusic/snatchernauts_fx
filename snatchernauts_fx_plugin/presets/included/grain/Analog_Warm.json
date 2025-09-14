@@ -1,0 +1,12 @@
+{
+  "name": "Analog_Warm",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.08,
+  "size": 1.2,
+  "speed": 0.9,
+  "downsample": 1.0
+}

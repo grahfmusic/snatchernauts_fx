@@ -1,0 +1,19 @@
+{
+  "name": "Bloom_Anam_Soft",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "threshold": 0.68,
+  "soft_knee": 0.5,
+  "intensity": 0.85,
+  "radius": 2.0,
+  "samples": 15,
+  "anamorphic": 0.35,
+  "anim": {
+    "type": "breathe",
+    "speed": 0.6,
+    "amount": 0.1
+  }
+}

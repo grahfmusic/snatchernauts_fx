@@ -1,0 +1,12 @@
+{
+  "name": "LB_19.5:9",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "aspect": "19.5:9",
+  "speed": "normal",
+  "speed_custom": 6.0,
+  "mix": 1.0
+}

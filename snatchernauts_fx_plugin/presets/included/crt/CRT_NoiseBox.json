@@ -1,0 +1,17 @@
+{
+  "name": "CRT_NoiseBox",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.32,
+  "vignette": 0.22,
+  "aberration": 0.003,
+  "scanline_strength": 0.42,
+  "scanline_density": 1.8,
+  "glitch": 0.22,
+  "anim_type": "tri",
+  "anim_speed": 1.0,
+  "barrel": 0.006
+}

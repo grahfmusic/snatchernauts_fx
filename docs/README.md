@@ -1,0 +1,16 @@
+# Snatchernauts FX Plugin — Manual (v6)
+
+## Table of Contents
+1. [Installation](INSTALLATION.md)
+2. [Getting Started](GETTING_STARTED.md)
+3. [First-Run Setup Wizard](FIRST_RUN_SETUP.md)
+4. [Editor Guide](EDITOR.md)
+5. Shader Guides: [Letterbox](LETTERBOX.md) · [CRT](CRT.md) · [Film Grain](FILM_GRAIN.md) · [Bloom](BLOOM.md) · [Color Grading](COLOR_GRADING.md)
+6. [2D Lighting System](LIGHTING.md)
+7. [Presets & JSON](PRESETS.md) and [Schemas](SCHEMA_REFERENCE.md)
+8. [Look Targets & Autotune](LOOK_TARGETS_AUTOTUNE.md)
+9. [API Reference](API_REFERENCE.md)
+10. [Hotkeys & Input](HOTKEYS_AND_INPUT.md)
+11. [Debug & Logging](DEBUG_AND_LOGGING.md)
+12. [Performance Tuning](PERFORMANCE_TUNING.md)
+13. [Troubleshooting](TROUBLESHOOTING.md)

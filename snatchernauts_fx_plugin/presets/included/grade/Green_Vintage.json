@@ -1,0 +1,16 @@
+{
+  "name": "Green_Vintage",
+  "enable": true,
+  "ops": [
+    {
+      "op": "tint",
+      "r": 0.98,
+      "g": 1.05,
+      "b": 0.98
+    },
+    {
+      "op": "contrast",
+      "value": 1.04
+    }
+  ]
+}

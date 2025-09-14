@@ -1,0 +1,86 @@
+{
+  "name": "Lights_NoirAlley",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "ambient": [
+    0.05,
+    0.05,
+    0.08,
+    0.45
+  ],
+  "lights": [
+    {
+      "type": "spot",
+      "pos": [
+        0.15,
+        0.85
+      ],
+      "dir": [
+        0,
+        -1
+      ],
+      "angle": 25,
+      "color": [
+        1.0,
+        0.95,
+        0.8
+      ],
+      "intensity": 1.2,
+      "radius": 0.55,
+      "falloff": 1.2,
+      "front": false,
+      "anim": {
+        "type": "flicker",
+        "speed": 2.2,
+        "amount": 0.3
+      }
+    },
+    {
+      "type": "point",
+      "pos": [
+        0.75,
+        0.35
+      ],
+      "color": [
+        0.6,
+        0.8,
+        1.0
+      ],
+      "intensity": 0.7,
+      "radius": 0.25,
+      "falloff": 1.4,
+      "front": false,
+      "anim": {
+        "type": "none",
+        "speed": 1.0,
+        "amount": 0.0
+      }
+    },
+    {
+      "type": "rect",
+      "pos": [
+        0.5,
+        0.1
+      ],
+      "size": [
+        0.8,
+        0.08
+      ],
+      "color": [
+        0.6,
+        0.7,
+        1.0
+      ],
+      "intensity": 0.6,
+      "falloff": 1.5,
+      "front": false,
+      "anim": {
+        "type": "none",
+        "speed": 1.0,
+        "amount": 0.0
+      }
+    }
+  ]
+}

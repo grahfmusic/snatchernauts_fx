@@ -1,0 +1,17 @@
+{
+  "name": "CRT_TapeGhost",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.31,
+  "vignette": 0.24,
+  "aberration": 0.0032,
+  "scanline_strength": 0.44,
+  "scanline_density": 1.6,
+  "glitch": 0.28,
+  "anim_type": "rolling",
+  "anim_speed": 1.4,
+  "barrel": 0.007
+}

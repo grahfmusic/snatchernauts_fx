@@ -1,0 +1,17 @@
+{
+  "name": "CRT_VCR",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.3,
+  "vignette": 0.16,
+  "aberration": 0.003,
+  "scanline_strength": 0.4,
+  "scanline_density": 1.6,
+  "glitch": 0.18,
+  "anim_type": "rolling",
+  "anim_speed": 1.2,
+  "barrel": 0.006
+}

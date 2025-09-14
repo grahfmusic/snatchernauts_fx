@@ -1,0 +1,81 @@
+{
+  "name": "Lights_Campus",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "ambient": [
+    0.14,
+    0.14,
+    0.16,
+    0.4
+  ],
+  "lights": [
+    {
+      "type": "point",
+      "pos": [
+        0.35,
+        0.52
+      ],
+      "color": [
+        1.0,
+        0.95,
+        0.8
+      ],
+      "intensity": 0.8,
+      "radius": 0.26,
+      "falloff": 1.0,
+      "front": false,
+      "anim": {
+        "type": "none",
+        "speed": 1.0,
+        "amount": 0.0
+      }
+    },
+    {
+      "type": "point",
+      "pos": [
+        0.65,
+        0.52
+      ],
+      "color": [
+        1.0,
+        0.95,
+        0.8
+      ],
+      "intensity": 0.8,
+      "radius": 0.26,
+      "falloff": 1.0,
+      "front": false,
+      "anim": {
+        "type": "none",
+        "speed": 1.0,
+        "amount": 0.0
+      }
+    },
+    {
+      "type": "rect",
+      "pos": [
+        0.5,
+        0.1
+      ],
+      "size": [
+        0.8,
+        0.06
+      ],
+      "color": [
+        0.7,
+        0.8,
+        1.0
+      ],
+      "intensity": 0.6,
+      "falloff": 1.5,
+      "front": false,
+      "anim": {
+        "type": "none",
+        "speed": 1.0,
+        "amount": 0.0
+      }
+    }
+  ]
+}

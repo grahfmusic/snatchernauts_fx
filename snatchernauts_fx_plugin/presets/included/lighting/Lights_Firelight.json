@@ -1,0 +1,57 @@
+{
+  "name": "Lights_Firelight",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "ambient": [
+    0.12,
+    0.09,
+    0.07,
+    0.55
+  ],
+  "lights": [
+    {
+      "type": "point",
+      "pos": [
+        0.45,
+        0.65
+      ],
+      "color": [
+        1.0,
+        0.6,
+        0.3
+      ],
+      "intensity": 1.2,
+      "radius": 0.32,
+      "falloff": 1.0,
+      "front": true,
+      "anim": {
+        "type": "flicker",
+        "speed": 2.0,
+        "amount": 0.35
+      }
+    },
+    {
+      "type": "point",
+      "pos": [
+        0.55,
+        0.65
+      ],
+      "color": [
+        1.0,
+        0.6,
+        0.3
+      ],
+      "intensity": 0.9,
+      "radius": 0.28,
+      "falloff": 1.0,
+      "front": true,
+      "anim": {
+        "type": "flicker",
+        "speed": 1.8,
+        "amount": 0.3
+      }
+    }
+  ]
+}

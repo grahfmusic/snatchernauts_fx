@@ -1,0 +1,17 @@
+{
+  "name": "CRT_Softline",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.18,
+  "vignette": 0.12,
+  "aberration": 0.0015,
+  "scanline_strength": 0.22,
+  "scanline_density": 1.4,
+  "glitch": 0.0,
+  "anim_type": "sine",
+  "anim_speed": 0.8,
+  "barrel": 0.002
+}

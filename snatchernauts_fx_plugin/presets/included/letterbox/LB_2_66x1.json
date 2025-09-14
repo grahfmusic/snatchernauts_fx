@@ -1,0 +1,12 @@
+{
+  "name": "LB_2.66:1",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "aspect": "2.66:1",
+  "speed": "very slow",
+  "speed_custom": 1.5,
+  "mix": 1.0
+}

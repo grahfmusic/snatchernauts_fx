@@ -1,0 +1,12 @@
+{
+  "name": "LB_18:9",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "aspect": "18:9",
+  "speed": "slow",
+  "speed_custom": 3.0,
+  "mix": 1.0
+}

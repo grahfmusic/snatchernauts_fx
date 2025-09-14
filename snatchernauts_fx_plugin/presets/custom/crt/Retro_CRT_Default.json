@@ -1,0 +1,17 @@
+{
+  "name": "Retro_CRT_Default",
+  "resolution": [
+    0,
+    0
+  ],
+  "enable": true,
+  "intensity": 0.3,
+  "vignette": 0.16,
+  "aberration": 0.003,
+  "scanline_strength": 0.42,
+  "scanline_density": 1.8,
+  "glitch": 0.18,
+  "anim_type": "rolling",
+  "anim_speed": 1.2,
+  "barrel": 0.006
+}

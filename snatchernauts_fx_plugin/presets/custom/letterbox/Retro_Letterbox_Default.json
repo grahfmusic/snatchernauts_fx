@@ -1,0 +1,12 @@
+{
+  "name": "Retro_Letterbox_Default",
+  "resolution": [
+    0,
+    0
+  ],
+  "enable": true,
+  "aspect": "4:3",
+  "speed": "fast",
+  "speed_custom": 10.0,
+  "mix": 1.0
+}

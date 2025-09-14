@@ -1,0 +1,12 @@
+{
+  "name": "Noir_Film",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.14,
+  "size": 1.5,
+  "speed": 0.9,
+  "downsample": 1.0
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Retro_Grain_Default",
+  "resolution": [
+    0,
+    0
+  ],
+  "enable": true,
+  "intensity": 0.1,
+  "size": 1.8,
+  "speed": 0.9,
+  "downsample": 2.0
+}

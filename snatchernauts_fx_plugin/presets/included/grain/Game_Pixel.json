@@ -1,0 +1,12 @@
+{
+  "name": "Game_Pixel",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.07,
+  "size": 2.4,
+  "speed": 0.6,
+  "downsample": 2.5
+}

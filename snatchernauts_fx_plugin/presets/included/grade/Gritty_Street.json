@@ -1,0 +1,18 @@
+{
+  "name": "Gritty_Street",
+  "enable": true,
+  "ops": [
+    {
+      "op": "contrast",
+      "value": 1.2
+    },
+    {
+      "op": "brightness",
+      "value": -0.04
+    },
+    {
+      "op": "saturation",
+      "value": 0.95
+    }
+  ]
+}

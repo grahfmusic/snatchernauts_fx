@@ -1,0 +1,14 @@
+{
+  "name": "Desat_Soft",
+  "enable": true,
+  "ops": [
+    {
+      "op": "saturation",
+      "value": 0.8
+    },
+    {
+      "op": "brightness",
+      "value": 0.02
+    }
+  ]
+}

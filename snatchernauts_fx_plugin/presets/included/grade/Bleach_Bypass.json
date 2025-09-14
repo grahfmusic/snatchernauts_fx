@@ -1,0 +1,14 @@
+{
+  "name": "Bleach_Bypass",
+  "enable": true,
+  "ops": [
+    {
+      "op": "contrast",
+      "value": 1.25
+    },
+    {
+      "op": "saturation",
+      "value": 0.65
+    }
+  ]
+}

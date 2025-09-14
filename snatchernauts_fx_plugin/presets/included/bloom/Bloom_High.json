@@ -1,0 +1,19 @@
+{
+  "name": "Bloom_High",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "threshold": 0.6,
+  "soft_knee": 0.55,
+  "intensity": 1.2,
+  "radius": 2.4,
+  "samples": 17,
+  "anamorphic": 0.2,
+  "anim": {
+    "type": "none",
+    "speed": 0.0,
+    "amount": 0.0
+  }
+}

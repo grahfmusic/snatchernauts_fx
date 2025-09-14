@@ -1,0 +1,57 @@
+{
+  "name": "TV_Lights_Default",
+  "resolution": [
+    0,
+    0
+  ],
+  "ambient": [
+    0.12,
+    0.12,
+    0.14,
+    0.4
+  ],
+  "lights": [
+    {
+      "type": "point",
+      "pos": [
+        0.35,
+        0.55
+      ],
+      "color": [
+        1.0,
+        0.9,
+        0.8
+      ],
+      "intensity": 0.8,
+      "radius": 0.28,
+      "falloff": 1.0,
+      "front": false,
+      "anim": {
+        "type": "none",
+        "speed": 1.0,
+        "amount": 0.0
+      }
+    },
+    {
+      "type": "point",
+      "pos": [
+        0.65,
+        0.55
+      ],
+      "color": [
+        1.0,
+        0.9,
+        0.8
+      ],
+      "intensity": 0.8,
+      "radius": 0.28,
+      "falloff": 1.0,
+      "front": false,
+      "anim": {
+        "type": "none",
+        "speed": 1.0,
+        "amount": 0.0
+      }
+    }
+  ]
+}

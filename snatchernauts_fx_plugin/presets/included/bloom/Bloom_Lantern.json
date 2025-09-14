@@ -1,0 +1,19 @@
+{
+  "name": "Bloom_Lantern",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "threshold": 0.74,
+  "soft_knee": 0.55,
+  "intensity": 0.95,
+  "radius": 1.9,
+  "samples": 13,
+  "anamorphic": 0.0,
+  "anim": {
+    "type": "breathe",
+    "speed": 0.5,
+    "amount": 0.1
+  }
+}

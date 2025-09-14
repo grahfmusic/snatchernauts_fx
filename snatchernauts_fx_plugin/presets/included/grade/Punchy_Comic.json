@@ -1,0 +1,14 @@
+{
+  "name": "Punchy_Comic",
+  "enable": true,
+  "ops": [
+    {
+      "op": "contrast",
+      "value": 1.18
+    },
+    {
+      "op": "saturation",
+      "value": 1.25
+    }
+  ]
+}

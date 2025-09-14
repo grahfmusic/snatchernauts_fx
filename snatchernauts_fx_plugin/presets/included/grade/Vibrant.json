@@ -1,0 +1,14 @@
+{
+  "name": "Vibrant",
+  "enable": true,
+  "ops": [
+    {
+      "op": "saturation",
+      "value": 1.2
+    },
+    {
+      "op": "contrast",
+      "value": 1.05
+    }
+  ]
+}

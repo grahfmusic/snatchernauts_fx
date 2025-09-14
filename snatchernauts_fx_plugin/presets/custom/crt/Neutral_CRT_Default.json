@@ -1,0 +1,17 @@
+{
+  "name": "Neutral_CRT_Default",
+  "resolution": [
+    0,
+    0
+  ],
+  "enable": false,
+  "intensity": 0.12,
+  "vignette": 0.1,
+  "aberration": 0.0012,
+  "scanline_strength": 0.18,
+  "scanline_density": 1.4,
+  "glitch": 0.0,
+  "anim_type": "none",
+  "anim_speed": 0.0,
+  "barrel": 0.002
+}

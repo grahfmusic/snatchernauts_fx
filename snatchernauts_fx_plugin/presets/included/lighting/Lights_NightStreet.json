@@ -1,0 +1,78 @@
+{
+  "name": "Lights_NightStreet",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "ambient": [
+    0.08,
+    0.08,
+    0.1,
+    0.4
+  ],
+  "lights": [
+    {
+      "type": "point",
+      "pos": [
+        0.2,
+        0.62
+      ],
+      "color": [
+        1.0,
+        0.95,
+        0.8
+      ],
+      "intensity": 1.1,
+      "radius": 0.3,
+      "falloff": 1.1,
+      "front": true,
+      "anim": {
+        "type": "none",
+        "speed": 1.0,
+        "amount": 0.0
+      }
+    },
+    {
+      "type": "point",
+      "pos": [
+        0.5,
+        0.62
+      ],
+      "color": [
+        1.0,
+        0.95,
+        0.8
+      ],
+      "intensity": 1.1,
+      "radius": 0.3,
+      "falloff": 1.1,
+      "front": true,
+      "anim": {
+        "type": "none",
+        "speed": 1.0,
+        "amount": 0.0
+      }
+    },
+    {
+      "type": "point",
+      "pos": [
+        0.8,
+        0.62
+      ],
+      "color": [
+        1.0,
+        0.95,
+        0.8
+      ],
+      "intensity": 1.1,
+      "radius": 0.3,
+      "falloff": 1.1,
+      "front": true,
+      "anim": {
+        "type": "none",
+        "speed": 1.0,
+        "amount": 0.0
+      }
+    }
+  ]
+}

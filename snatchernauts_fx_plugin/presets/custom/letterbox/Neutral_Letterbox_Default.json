@@ -1,0 +1,12 @@
+{
+  "name": "Neutral_Letterbox_Default",
+  "resolution": [
+    0,
+    0
+  ],
+  "enable": false,
+  "aspect": "16:9",
+  "speed": "normal",
+  "speed_custom": 6.0,
+  "mix": 1.0
+}

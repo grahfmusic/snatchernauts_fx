@@ -1,0 +1,17 @@
+{
+  "name": "CRT_Shock",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.36,
+  "vignette": 0.28,
+  "aberration": 0.0035,
+  "scanline_strength": 0.48,
+  "scanline_density": 2.0,
+  "glitch": 0.3,
+  "anim_type": "tri",
+  "anim_speed": 1.3,
+  "barrel": 0.006
+}

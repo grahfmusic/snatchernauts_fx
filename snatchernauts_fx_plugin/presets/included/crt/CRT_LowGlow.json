@@ -1,0 +1,17 @@
+{
+  "name": "CRT_LowGlow",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.16,
+  "vignette": 0.12,
+  "aberration": 0.0012,
+  "scanline_strength": 0.2,
+  "scanline_density": 1.4,
+  "glitch": 0.0,
+  "anim_type": "none",
+  "anim_speed": 0.0,
+  "barrel": 0.002
+}

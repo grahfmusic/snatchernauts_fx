@@ -1,0 +1,17 @@
+{
+  "name": "CRT_ShadowMask",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.24,
+  "vignette": 0.22,
+  "aberration": 0.002,
+  "scanline_strength": 0.32,
+  "scanline_density": 1.9,
+  "glitch": 0.0,
+  "anim_type": "sine",
+  "anim_speed": 0.9,
+  "barrel": 0.004
+}

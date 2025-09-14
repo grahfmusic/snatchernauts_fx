@@ -1,0 +1,17 @@
+{
+  "name": "CRT_Studio",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.2,
+  "vignette": 0.15,
+  "aberration": 0.0013,
+  "scanline_strength": 0.24,
+  "scanline_density": 1.5,
+  "glitch": 0.0,
+  "anim_type": "tri",
+  "anim_speed": 0.8,
+  "barrel": 0.002
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Bleu_Nocturne",
+  "enable": true,
+  "ops": [
+    {
+      "op": "tint",
+      "r": 0.93,
+      "g": 0.98,
+      "b": 1.06
+    },
+    {
+      "op": "contrast",
+      "value": 1.06
+    }
+  ]
+}

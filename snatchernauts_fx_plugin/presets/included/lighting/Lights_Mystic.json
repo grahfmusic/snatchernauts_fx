@@ -1,0 +1,57 @@
+{
+  "name": "Lights_Mystic",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "ambient": [
+    0.12,
+    0.1,
+    0.14,
+    0.45
+  ],
+  "lights": [
+    {
+      "type": "point",
+      "pos": [
+        0.4,
+        0.55
+      ],
+      "color": [
+        0.8,
+        0.6,
+        1.0
+      ],
+      "intensity": 1.0,
+      "radius": 0.32,
+      "falloff": 1.2,
+      "front": false,
+      "anim": {
+        "type": "breathe",
+        "speed": 0.7,
+        "amount": 0.25
+      }
+    },
+    {
+      "type": "point",
+      "pos": [
+        0.6,
+        0.55
+      ],
+      "color": [
+        1.0,
+        0.6,
+        0.8
+      ],
+      "intensity": 1.0,
+      "radius": 0.32,
+      "falloff": 1.2,
+      "front": false,
+      "anim": {
+        "type": "breathe",
+        "speed": 0.7,
+        "amount": 0.25
+      }
+    }
+  ]
+}

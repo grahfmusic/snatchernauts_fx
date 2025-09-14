@@ -1,0 +1,12 @@
+{
+  "name": "Cinema_35mm_Grit",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.1,
+  "size": 1.3,
+  "speed": 1.1,
+  "downsample": 1.0
+}

@@ -1,0 +1,17 @@
+{
+  "name": "CRT_TubeWarp",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.25,
+  "vignette": 0.2,
+  "aberration": 0.0022,
+  "scanline_strength": 0.34,
+  "scanline_density": 1.6,
+  "glitch": 0.0,
+  "anim_type": "sine",
+  "anim_speed": 0.9,
+  "barrel": 0.006
+}

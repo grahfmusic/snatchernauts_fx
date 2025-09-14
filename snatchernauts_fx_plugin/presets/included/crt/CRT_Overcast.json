@@ -1,0 +1,17 @@
+{
+  "name": "CRT_Overcast",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.21,
+  "vignette": 0.23,
+  "aberration": 0.0018,
+  "scanline_strength": 0.28,
+  "scanline_density": 1.5,
+  "glitch": 0.0,
+  "anim_type": "none",
+  "anim_speed": 0.0,
+  "barrel": 0.003
+}

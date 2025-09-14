@@ -1,0 +1,12 @@
+{
+  "name": "Studio_Clean",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.03,
+  "size": 0.9,
+  "speed": 0.8,
+  "downsample": 1.0
+}

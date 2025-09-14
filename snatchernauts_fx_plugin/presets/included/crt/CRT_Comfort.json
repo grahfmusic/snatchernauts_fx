@@ -1,0 +1,17 @@
+{
+  "name": "CRT_Comfort",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "intensity": 0.19,
+  "vignette": 0.14,
+  "aberration": 0.0014,
+  "scanline_strength": 0.26,
+  "scanline_density": 1.6,
+  "glitch": 0.0,
+  "anim_type": "sine",
+  "anim_speed": 0.8,
+  "barrel": 0.002
+}

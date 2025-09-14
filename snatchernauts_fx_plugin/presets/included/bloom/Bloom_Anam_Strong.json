@@ -1,0 +1,19 @@
+{
+  "name": "Bloom_Anam_Strong",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "enable": true,
+  "threshold": 0.62,
+  "soft_knee": 0.55,
+  "intensity": 1.25,
+  "radius": 2.6,
+  "samples": 17,
+  "anamorphic": 0.5,
+  "anim": {
+    "type": "pulse",
+    "speed": 1.0,
+    "amount": 0.18
+  }
+}
